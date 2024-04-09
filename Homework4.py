@@ -3,7 +3,7 @@
 # Creează o variabilă numită `age` și seteaz-o la vârsta ta
 
 # CODUL TĂU VINE MAI JOS:
-
+age = 19
 # CODUL TĂU VINE MAI SUS:
 
 # Acum afișează tipul variabilei `age` folosind funcția `print`
